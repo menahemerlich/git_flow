@@ -1,3 +1,3 @@
 export function listInventory(list){
-return list
+    return list
 }
